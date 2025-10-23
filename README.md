@@ -22,6 +22,4 @@ La base de datos H2 se crea en `target/uamdb` y se autogestiona con `hibernate.h
 - `edu.uam.persistence.services.MyDao`
 - `edu.uam.persistence.app.Main`
 
-## Notas
-- Cambie a MySQL si su entorno lo exige: ajuste `persistence.xml` con el driver/URL/usuario y agregue la dependencia de MySQL.
-- Incluya pruebas unitarias o de integración si el curso lo solicita.
+
